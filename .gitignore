@@ -33,12 +33,15 @@ ehthumbs.db
 Thumbs.db
 
 # ============ #
+<<<<<<< HEAD
 # Build   #
 # ============ #
 *.html
 *.unity3d
 
 # ============ #
+=======
+>>>>>>> 279848e701f8d7ae8e96b35ddffc55098077e5bd
 # for others   #
 # ============ #
 
